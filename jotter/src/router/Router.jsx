@@ -22,7 +22,7 @@ import Folder from "../pages/Home/Folder";
 import PDFViewer from "../pages/Home/PDFViewer";
 import NoteViewer from "../pages/Home/NoteViewer";
 import EnterPin from "../pages/Home/EnterPin";
-import Favorite from "../pages/FavoriteFolder/favorite";
+import Favorite from "../pages/FavoriteFolder/Favorite.jsx";
 import Calender from "../pages/Calender/Calender";
 import Profile from "../pages/Profile/Profile";
 import EditProfile from "../pages/Profile/EditeProfile";
